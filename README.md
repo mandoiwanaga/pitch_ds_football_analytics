@@ -7,4 +7,4 @@
 https://docs.google.com/document/d/18lI57n8CiOqqEJJp0m_nOjh0lgPUdnBpVSWVfXlvOZo/edit?usp=sharing
 
 #### Entity Relationship Diagram
-https://docs.google.com/document/d/18lI57n8CiOqqEJJp0m_nOjh0lgPUdnBpVSWVfXlvOZo/edit?usp=sharing
+https://www.lucidchart.com/invitations/accept/c258baa1-8936-4b6d-8e1d-3afcaf53cd93
