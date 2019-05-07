@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.sqlite
+*.sqlite3
+trash/
+*.zip
