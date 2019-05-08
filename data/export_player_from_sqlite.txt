@@ -1,0 +1,6 @@
+.open database.sqlite
+.headers on
+.mode csv
+.output Player.csv
+select * from Player;
+.quit
