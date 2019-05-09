@@ -4,4 +4,4 @@
 trash/
 *.zip
 data/__pycache__
-
+__pycache__
