@@ -25,7 +25,7 @@ def twosample_tstatistic(sample1, sample2):
     return num / denom
 
 def one_sample_ttest(sample, popmean, alpha):
-    """Calculate t-value and p-value"""
+    """Calculate t-value and p-value and return each"""
     
     # Population  
     mu = popmean
@@ -52,4 +52,5 @@ def one_sample_ttest(sample, popmean, alpha):
     if t_val > t_crit and p_val < alpha:
         print("Null Hypothesis rejected. ", "t-value: ", t_val, "p-value: ", p_val)
     else:
-        print("Null Hypothesis true. ", "t-value: ", t_val, "p-value: ", p_val) 
+        print("Null Hypothesis true. ", "t-value: ", t_val, "p-value: ", p_val)
+    return t_val, p_val 
