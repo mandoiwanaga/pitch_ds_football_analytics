@@ -3,3 +3,5 @@
 *.sqlite3
 trash/
 *.zip
+data/__pycache__
+
