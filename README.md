@@ -61,6 +61,7 @@ We are acting as consultants, whose practice is in analyzing soccer data in orde
         - Metric: average team winning percentage.
         - Took 1,000 samples of size 100, explicitly bootstrapping since the available sample of "Lots" dribbling teams was very small (only 23!).
         - Tested at alpha = 0.05.
+- The code for our analyses can be found in this [workbook](https://github.com/MangrobanGit/dsc-2-final-project/blob/mangrobangit/cleanup/final_copy.ipynb) in this repo.
 
 ### Findings
 - Here is a an outline of our findings (we won't be reiterating the description here, please just refer to above):
