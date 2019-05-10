@@ -44,7 +44,8 @@ We are acting as consultants, whose practice is in analyzing soccer data in orde
 - We constructed our own [ERD diagram](https://www.lucidchart.com/invitations/accept/10f1396e-f0aa-49d5-b996-67dba196f676) to better understand the data structure.  
 
 ### Analysis
-- For our hypothesis tests we performed one-sample and two-sample t-tests. 
+- For our hypothesis tests we s
+performed one-sample and two-sample t-tests. 
     1. We performed a one-sample t-test, making an assumption on the population mean (a team should have a 50% chance on winning a game, on average). In hindsight, we realized later that we were over-confident in our initial assumption of what the population mean should be since we forgot that matches could end in ties, which would have changed our initial assumption. 
         - Metric: Number of wins out of 1,000.
         - Took 100 samples of size 1,000 from the poplution.
@@ -84,4 +85,4 @@ https://docs.google.com/document/d/18lI57n8CiOqqEJJp0m_nOjh0lgPUdnBpVSWVfXlvOZo/
 https://www.lucidchart.com/invitations/accept/10f1396e-f0aa-49d5-b996-67dba196f676
 
 #### Presentation
-**REPO LINK HERE**
+https://github.com/MangrobanGit/dsc-2-final-project/blob/master/m2_presentation_pitch_ds.pdf
