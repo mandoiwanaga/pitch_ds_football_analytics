@@ -1,6 +1,8 @@
 # DSAF | Mod 2 Project
 ##  Pitch DS | Mando Iwanaga, Werlindo Mangrobang 
 
+![Alt text](images/soccer.png?raw=true "Title")
+
 ## Executive Summary
 We were tasked with gathering data from a dataset 'in-the-wild', and performing meaningful hypothesis tests on this data for potential stakeholders. We envisioned our team as soccer consultants who are offering our analytical expertise to potential clients (e.g. soccer clubs) to provide them with actionable insights. We performed four hypothesis tests, designed to either provide new insights, or confirm existing ideas.
 
